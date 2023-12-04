@@ -1,7 +1,7 @@
 # TransOilApi
 Work
 Не забудте поменять путь к базе данных на свой.
-Первым делом вызовите метод TestController - http://localhost:20463/api/TestData
+Первым делом вызовите метод TestController - http://localhost:8050/api/TestData
 после этого можно использовать остальные - 
 http://localhost:8050/api/ConsumtionObject/CalculationMeters/5-5-2018/9-30-2018
 http://localhost:8050/api/ConsumtionObject/AllOverdueElectricEnergyMeters/Какое-то название объекта потребления 1
